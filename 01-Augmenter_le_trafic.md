@@ -95,13 +95,38 @@ Rappelez-vous, Google classe les résultats en fonction du contenu des pages, vo
 
 ##### Optimisez votre site et construisez votre machine à contenu
 
-Il faut ensuite mettre en place à la fois une optimisation technique du site (son accessibilité, sa vitesse, sa version mobile) et une structure technique optimisée en SEO sur toutes les pages (titres, images, contenus). Il s'agit du début de l'optimisation "On-Page".
+Il faut ensuite mettre en place à la fois une **optimisation technique du site** (son accessibilité, sa vitesse, sa version mobile) et une structure technique optimisée en SEO sur toutes les pages (titres, images, contenus). Il s'agit du début de l'optimisation "On-Page".
 
 ##### Définissez les potentiels partenaires
 
-Une fois toutes les modifications On-Page effectuées et la création de contenu lancée, il vous faut maintenant obtenir des liens en créant des partenariats.
+Une fois toutes les modifications On-Page effectuées et la création de contenu lancée, il vous faut maintenant **obtenir des liens en créant des partenariats**.
+
+##### Surveillez l'évolution de vos actions SEO
+
+Enfin, il vous reste à prévoir **le reporting et le suivi des actions** que vous avez mises en place.
+
+Il vous faudra donc définir la périodicité et le niveau de détail de reporting que vous allez fournir, ainsi que leur forme (export des chiffres, slides, etc.)
+
+##### Déterminez les ressources nécessaires
+
+Vous, votre client ou votre manager allez avoir besoin de savoir approximativement le budget et le temps pour mettre en place le projet SEO.
+
+Ceci est possible grâce à l’audit préalable : vous y verrez l’étendue du travail à faire pour chaque étape ; vous pourrez ainsi estimer un temps de travail et donc un budget.
+
+Voici une idée de la charge de travail pour chaque étape suite à l'audit préalable :
+
+- Recherche de mots-clés - entre ½ journée et 2 jours ;
+- Optimisations du site :
+  - Audit complet - 1 à 4 jours ;
+  - Optimisation du contenu des pages existantes - 2 h par page.
+  - Corrections techniques - à l'aide de développeurs (notez que la durée de cette étape dépend grandement de la technologie du site. En général, au moins 1 jour ;
+  - Création de contenu, par exemple d’articles - ½ journée à 1 journée par article ;
+- Recherche de liens et de partenaires - entre 2 et 5 jours (à répéter régulièrement) ;
+- Mise en place du reporting - 1 à 2 jours.
 
 #### Quiz : Décrire le fonctionnement de Google et l'intérêt du SEO
+
+- Ok !
 
 ### Partie 2 - Choisissez les bons mots ou expressions-clés
 
